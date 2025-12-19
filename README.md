@@ -56,7 +56,7 @@ DSA-With-Java/ │ ├── Arrays/ ├── LinkedList/ ├── Stack/ ├�
 
 1. 📥 Clone the repository
    ```bash
-   git clone https://github.com/your-username/DSA-With-Java.git
+   git clone https://github.com/yash-kumar2828/DSA-With-Java.git
 
 2. 📂 Navigate to the folder
 
